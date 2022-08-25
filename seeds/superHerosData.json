@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "SPIDER-MAN: INTO THE SPIDER-VERSE (2018)",
+        "power_stats": 97,
+        "synopsis": "Bitten by a radioactive spider in the subway, Brooklyn teenager Miles Morales suddenly develops mysterious powers that transform him into ...",
+        "starring": "Shameik Moore, Jake Johnson, Hailee Steinfeld, Mahershala Ali",
+        "directed_by": "Bob Persichetti, Peter Ramsey, Rodney Rothman",
+        "image_name": "1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "THE INCREDIBLES (2004)",
+        "power_stats": 97,
+        "synopsis": "In this lauded Pixar animated film, married superheroes Mr. Incredible (Craig T. Nelson) and Elastigirl (Holly Hunter) are forced to ...",
+        "starring": "Craig T. Nelson, Holly Hunter, Samuel L. Jackson, Jason Lee",
+        "directed_by": "Brad Bird",
+        "image_name": "2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "BLACK PANTHER (2018)",
+        "power_stats": 96,
+        "synopsis": "After the death of his father, T'Challa returns home to the African nation of Wakanda to take his rightful place ...",
+        "starring": "Chadwick Boseman, Michael B. Jordan, Lupita Nyong'o, Danai Gurira",
+        "directed_by": "Ryan Coogler",
+        "image_name": "3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "AVENGERS: ENDGAME (2019)",
+        "power_stats": 94,
+        "synopsis": "Adrift in space with no food or water, Tony Stark sends a message to Pepper Potts as his oxygen supply ...",
+        "starring": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth",
+        "directed_by": "Anthony Russo, Joe Russo",
+        "image_name": "4.jpg"
+    }
+]
